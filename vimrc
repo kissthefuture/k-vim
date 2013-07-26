@@ -45,12 +45,12 @@ set shortmess=atI       " 启动的时候不显示那个援助索马里儿童的
 "set backupdir=~/bak/vimbk/
 
 " 取消备份。 视情况自己改
-set nobackup
-set noswapfile
+"set nobackup
+"set noswapfile
 
 " 突出显示当前行等 不喜欢这种定位可注解
-set cursorcolumn
-set cursorline              " 突出显示当前行
+"set cursorcolumn
+"set cursorline              " 突出显示当前行
 
 "设置 退出vim后，内容显示在终端屏幕, 可以用于查看和复制
 "好处：误删什么的，如果以前屏幕打开，可以找回
